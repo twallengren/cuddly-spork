@@ -1,2 +1,2 @@
 # cuddly-spork
-for random projects
+for random projects (written in Python 3)
