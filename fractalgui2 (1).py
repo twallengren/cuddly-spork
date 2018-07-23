@@ -715,7 +715,7 @@ def main():
     app = FracWinApp()
 
     # Animation Call
-    #ani = animation.FuncAnimation(f, animatecolorselection, interval=1000)
+    ani = animation.FuncAnimation(f, animatecolorselection, interval=1000)
 
     # Put in mainloop so that the window does not close
     app.mainloop()
