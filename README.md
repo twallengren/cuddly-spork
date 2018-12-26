@@ -5,4 +5,4 @@ for random projects (written in Python 3)
 
 -video of output of autonomous path planning: https://www.youtube.com/watch?v=YenHzVpw6Rw
 
--fractal gui project is incomplete but still fun!
+-fractal gui project is incomplete but still fun - for generating images of escape time fractals like the mandelbrot set (check out https://www.youtube.com/watch?v=NGMRB4O922I if you do not know what the mandelbrot set is)
